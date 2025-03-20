@@ -27,7 +27,7 @@ Check it out live 👉 **[Medical Home Page](https://medical-home-page.netlify.a
 
 ## 📸 Screenshot
 
-![Medical Home Page Screenshot](assets/screenshot.png)
+![Medical Home Page Screenshot](assets/screenshot.jpg)
 
 ---
 
